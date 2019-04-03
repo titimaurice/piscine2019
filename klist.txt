@@ -1,0 +1,5 @@
+Credentials cache: API:D0010D79-2E7F-43DA-B1E8-FAFC39401A9F
+        Principal: mamauric@S19.BE
+
+  Issued                Expires               Principal
+Feb 11 15:46:58 2019  Feb 12 01:46:58 2019  krbtgt/S19.BE@S19.BE
